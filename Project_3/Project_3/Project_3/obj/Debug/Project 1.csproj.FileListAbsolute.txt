@@ -1,0 +1,21 @@
+C:\Users\brand\Downloads\Project_1\Project 1\Project 1\bin\Debug\Project 1.exe.config
+C:\Users\brand\Downloads\Project_1\Project 1\Project 1\bin\Debug\Project 1.exe
+C:\Users\brand\Downloads\Project_1\Project 1\Project 1\bin\Debug\Project 1.pdb
+C:\Users\brand\Downloads\Project_1\Project 1\Project 1\obj\Debug\Project 1.csproj.AssemblyReference.cache
+C:\Users\brand\Downloads\Project_1\Project 1\Project 1\obj\Debug\Project_1.Form_stock_entry.resources
+C:\Users\brand\Downloads\Project_1\Project 1\Project 1\obj\Debug\Project_1.Properties.Resources.resources
+C:\Users\brand\Downloads\Project_1\Project 1\Project 1\obj\Debug\Project 1.csproj.GenerateResource.cache
+C:\Users\brand\Downloads\Project_1\Project 1\Project 1\obj\Debug\Project 1.csproj.CoreCompileInputs.cache
+C:\Users\brand\Downloads\Project_1\Project 1\Project 1\obj\Debug\Project 1.exe
+C:\Users\brand\Downloads\Project_1\Project 1\Project 1\obj\Debug\Project 1.pdb
+C:\Users\brand\Downloads\Project_1\Project_1\Project 1\Project 1\obj\Debug\Project 1.csproj.AssemblyReference.cache
+C:\Users\brand\Downloads\Project_1\Project_1\Project 1\Project 1\obj\Debug\Project_1.Form_stock_charts.resources
+C:\Users\brand\Downloads\Project_1\Project_1\Project 1\Project 1\obj\Debug\Project_1.Form_stock_entry.resources
+C:\Users\brand\Downloads\Project_1\Project_1\Project 1\Project 1\obj\Debug\Project_1.Properties.Resources.resources
+C:\Users\brand\Downloads\Project_1\Project_1\Project 1\Project 1\obj\Debug\Project 1.csproj.GenerateResource.cache
+C:\Users\brand\Downloads\Project_1\Project_1\Project 1\Project 1\obj\Debug\Project 1.csproj.CoreCompileInputs.cache
+C:\Users\brand\Downloads\Project_1\Project_1\Project 1\Project 1\obj\Debug\Project 1.exe
+C:\Users\brand\Downloads\Project_1\Project_1\Project 1\Project 1\obj\Debug\Project 1.pdb
+C:\Users\brand\Downloads\Project_1\Project_1\Project 1\Project 1\bin\Debug\Project 1.exe.config
+C:\Users\brand\Downloads\Project_1\Project_1\Project 1\Project 1\bin\Debug\Project 1.exe
+C:\Users\brand\Downloads\Project_1\Project_1\Project 1\Project 1\bin\Debug\Project 1.pdb

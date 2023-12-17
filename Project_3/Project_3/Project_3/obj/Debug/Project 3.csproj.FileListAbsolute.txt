@@ -1,0 +1,22 @@
+C:\Users\zacze\Downloads\Project_3\Project_3\Project_1\Project 1\Project 1\bin\Debug\Project 1.exe.config
+C:\Users\zacze\Downloads\Project_3\Project_3\Project_1\Project 1\Project 1\bin\Debug\Project 1.exe
+C:\Users\zacze\Downloads\Project_3\Project_3\Project_1\Project 1\Project 1\bin\Debug\Project 1.pdb
+C:\Users\zacze\Downloads\Project_3\Project_3\Project_1\Project 1\Project 1\obj\Debug\Project 3.csproj.AssemblyReference.cache
+C:\Users\zacze\Downloads\Project_3\Project_3\Project_1\Project 1\Project 1\obj\Debug\Project_1.Form_stock_charts.resources
+C:\Users\zacze\Downloads\Project_3\Project_3\Project_1\Project 1\Project 1\obj\Debug\Project_1.Form_stock_entry.resources
+C:\Users\zacze\Downloads\Project_3\Project_3\Project_1\Project 1\Project 1\obj\Debug\Project_1.Properties.Resources.resources
+C:\Users\zacze\Downloads\Project_3\Project_3\Project_1\Project 1\Project 1\obj\Debug\Project 3.csproj.GenerateResource.cache
+C:\Users\zacze\Downloads\Project_3\Project_3\Project_1\Project 1\Project 1\obj\Debug\Project 3.csproj.CoreCompileInputs.cache
+C:\Users\zacze\Downloads\Project_3\Project_3\Project_1\Project 1\Project 1\obj\Debug\Project 1.exe
+C:\Users\zacze\Downloads\Project_3\Project_3\Project_1\Project 1\Project 1\obj\Debug\Project 1.pdb
+C:\Users\zacze\OneDrive\Documents\Project_3\Project_3\Project_3\bin\Debug\Project 1.exe.config
+C:\Users\zacze\OneDrive\Documents\Project_3\Project_3\Project_3\bin\Debug\Project 1.exe
+C:\Users\zacze\OneDrive\Documents\Project_3\Project_3\Project_3\bin\Debug\Project 1.pdb
+C:\Users\zacze\OneDrive\Documents\Project_3\Project_3\Project_3\obj\Debug\Project 3.csproj.AssemblyReference.cache
+C:\Users\zacze\OneDrive\Documents\Project_3\Project_3\Project_3\obj\Debug\Project_3.Form_stock_charts.resources
+C:\Users\zacze\OneDrive\Documents\Project_3\Project_3\Project_3\obj\Debug\Project_3.Form_stock_entry.resources
+C:\Users\zacze\OneDrive\Documents\Project_3\Project_3\Project_3\obj\Debug\Project_3.Properties.Resources.resources
+C:\Users\zacze\OneDrive\Documents\Project_3\Project_3\Project_3\obj\Debug\Project 3.csproj.GenerateResource.cache
+C:\Users\zacze\OneDrive\Documents\Project_3\Project_3\Project_3\obj\Debug\Project 3.csproj.CoreCompileInputs.cache
+C:\Users\zacze\OneDrive\Documents\Project_3\Project_3\Project_3\obj\Debug\Project 1.exe
+C:\Users\zacze\OneDrive\Documents\Project_3\Project_3\Project_3\obj\Debug\Project 1.pdb
