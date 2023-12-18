@@ -18,7 +18,7 @@ Before you begin, ensure you have met the following requirements:
 To install and run the Stock Ticker Application, follow these steps:
 
 1. Clone the repository to your local machine:
-   https://github.com/ZacZemar/stock-ticker-app.git
+   https://github.com/ZacZemar/StockTicker.git
 2. Open the solution file in Visual Studio.
 3. Ensure that all necessary dependencies are installed.
 4. Build and run the application within Visual Studio.
